@@ -42,8 +42,5 @@ Before using the script, you must configure it with your Google Cloud Vision API
 ## Contributing
 Contributions to improve the script or extend its functionalities are welcome. Please ensure any contributions are ethical and legal.
 
-## License
-[MIT License](LICENSE)
-
 ## Acknowledgments
 - Google Cloud Vision API for providing OCR capabilities.
