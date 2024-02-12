@@ -6,7 +6,7 @@ This Python script is designed to demonstrate the automation of captcha image fe
 
 ## Disclaimer
 This tool is for educational and ethical testing purposes only. Always seek permission before testing websites you do not own. Unauthorized use of this script against websites without explicit permission is illegal and unethical.
-
+## Watch the video
 [![Watch the video](https://img.youtube.com/vi/UWyppHJ8lsQ/0.jpg)](https://www.youtube.com/watch?v=UWyppHJ8lsQ)
 
 ## Features
