@@ -21,7 +21,7 @@ This tool is for educational and ethical testing purposes only. Always seek perm
 ## Installation
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/3zizme/bypass-capthca-wordpress.git
    ```
 2. Install required Python libraries:
    ```
